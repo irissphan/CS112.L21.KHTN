@@ -1,10 +1,11 @@
 # CS112.L11.KHTN
 # Nhóm 01
-## Thành viên:
-**Nguyễn Thị Minh Phương** - MSSV: 19522065
-
-**Phan Nhật Minh** - MSSV: 19520166
-## Bài tập tuần:
+## Thành viên
+| Họ và Tên              | MSSV     |
+|------------------------|----------|
+| Nguyễn Thị Minh Phương | 19522065 |
+| Phan Nhật Minh         | 19520166 |
+## Bài tập tuần
 ### Tuần 3:
 Tảo biển 
 
@@ -21,8 +22,17 @@ Con đường gốm sứ
 Số nguyên mới
 
 Hệ thống cấp nước
-## Seminar (báo cáo đồ án):
-### Chia để trị
+
+### Tuần 6:
+
+Sửa hàng rào
+
+Phân số
+
+Khởi nghiệp
+
+## Seminar (báo cáo đồ án)
+### Chủ đề: Chia để trị
 Slide.pdf
 
 Bài tập về nhà.pdf
@@ -30,4 +40,6 @@ Bài tập về nhà.pdf
 Quizzes-Kahoot.pdf
 
 Code-minh-họa.ipynb
+
+## Tự rèn luyện online
 
