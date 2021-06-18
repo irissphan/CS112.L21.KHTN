@@ -7,8 +7,8 @@
 ## Bài tập tuần
 ### Tuần 3:
 
-<a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTap/week03/docs/TaoBien.ipynb">
-  Tảo biển</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTap/week03/docs/TramThuPhi.ipynb ">
+<a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTapTuan/week03/docs/TaoBien.ipynb">
+  Tảo biển</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTapTuan/week03/docs/TramThuPhi.ipynb ">
   Trạm thu phí</a>
 
 ### Tuần 4:
