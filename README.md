@@ -7,25 +7,25 @@
 ## Bài tập tuần
 ### Tuần 3:
 
-<a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTapTuan/week03/docs/TaoBien.ipynb">
-  Tảo biển</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTapTuan/week03/docs/TramThuPhi.ipynb ">
+<a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week03/docs/TaoBien.ipynb">
+  Tảo biển</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week03/docs/TramThuPhi.ipynb ">
   Trạm thu phí</a>
 
 ### Tuần 4:
-<a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTapTuan/week04/docs/H_index.ipynb">
-  H-index</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTapTuan/week04/docs/khoaSo.ipynb">
-  Khóa số</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTapTuan/week04/docs/conDuongGomSu.ipynb">
+<a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week04/docs/H_index.ipynb">
+  H-index</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week04/docs/khoaSo.ipynb">
+  Khóa số</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week04/docs/conDuongGomSu.ipynb">
   Con đường gốm sứ</a>
 
 ### Tuần 5:
-<a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTapTuan/week05/docs/doiMoi.ipynb">Đổi mới</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTapTuan/week05/docs/soNguyenMoi.ipynb">
- Số nguyên mới</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTapTuan/week05/docs/heThongCapNuoc.ipynb">
+<a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week05/docs/doiMoi.ipynb">Đổi mới</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week05/docs/soNguyenMoi.ipynb">
+ Số nguyên mới</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week05/docs/heThongCapNuoc.ipynb">
   Hệ thống cấp nước</a>
 
 ### Tuần 6:
 
-<a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTapTuan/week05/docs/heThongCapNuoc.ipynb"> Sửa hàng rào</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTapTuan/week05/docs/heThongCapNuoc.ipynb">
-  Phân số</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTapTuan/week05/docs/heThongCapNuoc.ipynb">
+<a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week05/docs/heThongCapNuoc.ipynb"> Sửa hàng rào</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week05/docs/heThongCapNuoc.ipynb">
+  Phân số</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week05/docs/heThongCapNuoc.ipynb">
 Khởi nghiệp</a>
 
 ## Seminar (báo cáo đồ án)
