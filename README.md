@@ -7,9 +7,9 @@
 | Phan Nhật Minh         | 19520166 |
 ## Bài tập tuần
 ### Tuần 3:
-Tảo biển 
+[Tảo biển]: https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTap/week03/docs/TaoBien.ipynb
+[Trạm thu phí]: https://github.com/irissphan/CS112.L21.KHTN/blob/main/BaiTap/week03/docs/TramThuPhi.ipynb
 
-Trạm thu phí
 ### Tuần 4:
 H-Index
 
