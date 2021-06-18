@@ -55,5 +55,5 @@ Code minh họa</a>
 
 ## Tự rèn luyện online
 
-<a href="https://github.com/irissphan/CS112.L21.KHTN/tree/main/TuLuyenOnline">
+<a href="https://github.com/irissphan/CS112.L21.KHTN/tree/main/Tu-luyen-online">
 Certificate</a>
