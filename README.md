@@ -31,7 +31,7 @@ Khởi nghiệp</a>
 ## Seminar (báo cáo đồ án)
 ### Chủ đề: Chia để trị
 <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/%5BSeminar%5D%20Divide-and-Conquer/Slide-b%C3%A1o-c%C3%A1o.pdf">
-Slide báo cáo</a>
+Slide báo cáo</a> (có chứa phân công nhiệm vụ & đánh giá mức độ hoàn thành ở cuối slide)
 
 <br>
 
