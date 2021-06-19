@@ -24,8 +24,8 @@
 
 ### Tuần 6:
 
-<a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week05/docs/heThongCapNuoc.ipynb"> Sửa hàng rào</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week05/docs/heThongCapNuoc.ipynb">
-  Phân số</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week05/docs/heThongCapNuoc.ipynb">
+<a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week06/docs/suaHangRao.ipynb"> Sửa hàng rào</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week06/docs/phanSo.ipynb">
+  Phân số</a> + <a href="https://github.com/irissphan/CS112.L21.KHTN/blob/main/Bai-tap-tuan/week06/docs/khoiNghiep.ipynb">
 Khởi nghiệp</a>
 
 ## Seminar (báo cáo đồ án)
